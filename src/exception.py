@@ -1,5 +1,5 @@
 import sys   ##any exception that happens sys library will have the information
-import logging
+from src.logger import logging
 
 
 ##whenever error raised call this particular function
