@@ -1,4 +1,4 @@
-##Ml application created as a package and deploy as package itself
+##Ml application created as a package and deploy as package itself.
 
 from setuptools import find_packages,setup
 from typing import List
